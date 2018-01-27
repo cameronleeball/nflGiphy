@@ -1,0 +1,116 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#header-area {
+    width: 1000px;
+    margin: auto;
+    box-sizing: border-box;
+    
+    
+}
+h1 {
+    background-color: #003399;
+    color: #ffffff;
+    font-weight: bolder;
+    padding: 20px;
+
+}
+
+#banner {
+    width: 1000px;
+    margin: auto;
+}
+
+#button-area{
+    width: 1000px;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 10px;
+}
+
+.nflAPI{
+    background-color: #003399;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.nflAPI:hover{
+    background-color: #003399;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.24),0 4px 10px 0 rgba(0,0,0,0.19);
+}
+
+hr {
+    height: 2px;
+    color: #000;
+    width: 1000px;
+    margin: 25px auto;
+}
+
+#wrapper {
+    width: 1000px;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 10px;
+    
+}
+
+#giphy-area{
+    border-right: 0.5px solid #555;
+    width: 75%;
+    float: left;
+    /* box-sizing: border-box;
+    margin: auto;
+    padding: 10px; */
+}
+
+#text-area{
+    width: 25%;
+    float: left;
+    height: 500px;
+    padding: 10px;
+    /* box-sizing: border-box;
+    margin: auto;
+    padding: 10px; */
+}
+
+#nfl-input{
+    width: 250px;
+    margin: 10px 0px;
+
+}
+
+#add-nfl{
+    background-color: #003399;
+    color: #ffffff;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+#add-nfl:hover{
+    background-color: #003399;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.24),0 4px 10px 0 rgba(0,0,0,0.19);
+}
+
+.gif {
+    border: 1px solid #000;
+}
+
+.gif:hover {
+    cursor: pointer;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.24),0 4px 10px 0 rgba(0,0,0,0.19);
+}
